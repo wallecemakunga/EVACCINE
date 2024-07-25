@@ -1,0 +1,5 @@
+admin id:100
+password :12345678
+
+
+admin add doctors and nurses  with default password Doctor@1234 and Nurse@1234,respectively
